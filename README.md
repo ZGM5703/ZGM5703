@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi, I'm Zuriel 👋
 
-<!--
-**ZGM5703/ZGM5703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Prompt Specialist · Junior IT Professional · Remote-Ready**
 
-Here are some ideas to get you started:
+🎓 BSIT Graduate — Palawan State University (2026)  
+📍 Puerto Princesa, Palawan, PH  
+🌐 Open to Remote Work Worldwide
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+I build things with AI and code. I specialize in **prompt engineering** — crafting precise, context-aware prompts that get consistent, high-quality outputs from Claude, ChatGPT, and Gemini. I also build web projects using HTML, CSS, JavaScript, and Python.
+
+Currently focused on: AI workflow design · Content automation · Data annotation · AI-assisted development
+
+---
+
+## 🛠️ Skills
+
+**AI & Prompting**
+`Prompt Engineering` `Claude (Anthropic)` `ChatGPT` `Gemini` `AI Workflow Design` `AI Data Annotation`
+
+**Web Development**
+`HTML5` `CSS3` `JavaScript (DOM)` `Responsive Layout`
+
+**Python**
+`Scripting` `Basic Automation` `AI API Integration`
+
+**Tools**
+`Figma` `Canva` `DaVinci Resolve` `Git` `VS Code`
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Status |
+|---|---|---|
+| [**IT Portfolio Website**](https://zgm5703.github.io/) | Personal portfolio with scroll-reveal animations, dark theme, responsive layout | ✅ Live |
+| [**AI Prompt Library**](./ai-prompt-library) | 10 production-ready prompts for business use cases (content, CX, email, ops) | 🔄 In Progress |
+| [**Python Text Summarizer**](./python-text-summarizer) | CLI tool that sends documents to an AI API and returns concise summaries | 🔄 In Progress |
+
+---
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zuriel-heisli-montallana-14a96b413/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0129e66c9ca8ee58dd)
+[![OnlineJobs.ph](https://img.shields.io/badge/OnlineJobs.ph-FF6B35?style=flat&logoColor=white)](https://v2.onlinejobs.ph/jobseekers/info/4613230)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://zgm5703.github.io/)
+
+📧 zurielgmon@gmail.com | 📱 +63 915 948 8526
+
+---
+
+> *"I don't just use AI tools — I build systems around them."*
