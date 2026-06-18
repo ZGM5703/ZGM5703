@@ -38,7 +38,7 @@ Currently focused on: AI workflow design · Content automation · Data annotatio
 |---|---|---|
 | [**IT Portfolio Website**](https://zgm5703.github.io/) | Personal portfolio with scroll-reveal animations, dark theme, responsive layout | ✅ Live |
 | [**AI Prompt Library**](./ai-prompt-library) | 10 production-ready prompts for business use cases (content, CX, email, ops) | 🔄 In Progress |
-| [**Python Text Summarizer**](https://github.com/ZGM5703/Python-Text-Summarizer) | CLI tool that sends documents to an AI API and returns concise summaries | 🔄 In Progress |
+| [**Python Text Summarizer**](https://github.com/ZGM5703/Python-Text-Summarizer) | CLI tool that sends documents to an AI API and returns concise summaries | ✅ Live |
 | [**QuizForge - AI-Powered Study Tool**](https://zgm5703.github.io/Quiz-Generator/) | Generate quizzes based on your prompt using the api of Anthropic | ✅ Live |
 | [**NumberDraw - Lottery Number Calculator**](https://zgm5703.github.io/Lottery-Calculator/) | A simple calculator specified for lottery  | ✅ Live |
 
