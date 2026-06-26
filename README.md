@@ -41,7 +41,7 @@ Currently focused on: AI workflow design · Content automation · Data annotatio
 | [**ClearBudget - Monthly Budget Tracker**](https://zgm5703.github.io/Budget-Tracker/) | Calculates your monthly income and expenses | ✅ Live |
 | [**QuizForge - AI-Powered Study Tool**](https://zgm5703.github.io/Quiz-Generator/) | Generate quizzes based on your prompt using the api of Anthropic | ✅ Live |
 | [**NumberDraw - Lottery Number Calculator**](https://zgm5703.github.io/Lottery-Calculator/) | A simple calculator specified for lottery  | ✅ Live |
-| [**SpecMatch — Laptop Comparison Tool**](https://github.com/ZGM5703/SpecMatch) | A tool that compares laptop specs and prices  | ✅ Live |
+| [**SpecMatch - Laptop Comparison Tool**](https://zgm5703.github.io/SpecMatch/) | A tool that compares laptop specs and prices  | ✅ Live |
 
 
 ---
