@@ -42,6 +42,7 @@ Currently focused on: AI workflow design · Content automation · Data annotatio
 | [**QuizForge - AI-Powered Study Tool**](https://zgm5703.github.io/Quiz-Generator/) | Generate quizzes based on your prompt using the api of Anthropic | ✅ Live |
 | [**NumberDraw - Lottery Number Calculator**](https://zgm5703.github.io/Lottery-Calculator/) | A simple calculator specified for lottery  | ✅ Live |
 | [**SpecMatch - Laptop Comparison Tool**](https://zgm5703.github.io/SpecMatch/) | A tool that compares laptop specs and prices  | ✅ Live |
+| [**CSSPlayground - Live CSS Theme Switcher**](https://zgm5703.github.io/CSSPlayground-Live-CSS-Theme-Switcher/) | A website that showcases different kinds of css themes  | ✅ Live |
 
 
 ---
